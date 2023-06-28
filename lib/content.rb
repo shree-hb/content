@@ -3,6 +3,7 @@
 require_relative "content/version"
 
 module Content
-  class Error < StandardError; end
-  # Your code goes here...
+  def content_hello
+    puts '------------- Hello from the content gem -------------'
+  end
 end
