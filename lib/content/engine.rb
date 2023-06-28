@@ -3,3 +3,4 @@ module Content
     isolate_namespace Content
   end
 end
+
