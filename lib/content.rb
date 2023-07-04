@@ -4,7 +4,7 @@ require_relative "content/version"
 
 require_relative "content/version"
 
-require_relative "content/routes"
+#{}require_relative "../config"
 require_relative "content/content_crud"
 
 module Content
